@@ -1,0 +1,25 @@
+name: 张三
+age: 19
+
+person:
+  name: wangwu
+  addr: 山东济南
+  age: 20
+  sex: 男
+
+#配置数据集合
+city:
+  - beijing
+  - tianjin
+  - jinan
+  - chongqing
+
+
+student:
+  - name: tom
+    age: 18
+    addr: beijing
+  - name: lucy
+    age: 20
+    addr: jinan
+
